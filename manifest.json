@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "URL Grabber",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "images.png"
+  },
+  "web-accessible-resources": [{ "resources": ["images.png"] }],
+  "permissions": ["tabs"]
+}
